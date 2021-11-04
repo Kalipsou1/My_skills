@@ -38,8 +38,3 @@ touch t1.txt t2.txt t3.txt j1.json j2.json
 mkdir f1 f2 f3
 ls -la
 mv ../one/{t1.txt,t2.txt} ../two/
-
-
-
-
-
