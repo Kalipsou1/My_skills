@@ -1,4 +1,0 @@
-name: Elena Kruglova
-Age: 29
-Number of pets:0
-Future salary: 1001 usd
