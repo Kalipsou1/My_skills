@@ -1,6 +1,0 @@
-1. Bug ID
-2. Bug summary
-3. Bug details
-4. Bug priority
-5. Bug description
-6. Attachments to the bug report
