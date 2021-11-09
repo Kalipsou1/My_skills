@@ -1,6 +1,8 @@
     Bug ID
-    Bug Summary
-    Bug Details
-    Bug Priority
-    Bug Description
-    Attachments to the bug report
+    Severity/Priority
+    Description
+    Environment
+    Steps to reproduce
+    Expect result
+    Actual result
+    Attachments 
