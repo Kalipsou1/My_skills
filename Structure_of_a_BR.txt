@@ -1,0 +1,8 @@
+    Bug ID
+    Severity/Priority
+    Description
+    Environment
+    Steps to reproduce
+    Expect result
+    Actual result
+    Attachments 
